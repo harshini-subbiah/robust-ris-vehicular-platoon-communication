@@ -94,25 +94,6 @@ The program automatically:
 
 ---
 
-## Applications
-
-- Intelligent Transportation Systems (ITS)
-- Vehicular Platoon Communications
-- 5G/6G Wireless Networks
-- mmWave Communications
-- Smart Road Infrastructure
-- Reconfigurable Intelligent Surfaces (RIS)
-
----
-
-## Future Improvements
-
-- Deep learning-based RIS optimization
-- Multi-RIS deployment
-- Hardware implementation
-- Real-time beam tracking
-- UAV-assisted RIS communications
-
 ---
 
 ## Authors
