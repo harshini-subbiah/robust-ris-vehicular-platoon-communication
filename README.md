@@ -51,7 +51,6 @@ The simulation generates the following results:
 - RIS Gain Heatmap
 
 ---
----
 
 ## Requirements
 
@@ -91,8 +90,6 @@ The program automatically:
 - Performs Monte Carlo simulations
 - Generates all performance plots
 - Displays the numerical results table
-
----
 
 ---
 
